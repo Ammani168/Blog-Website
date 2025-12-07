@@ -74,7 +74,7 @@ Blog-Website/
 
 Download or clone the repository
 
-git clone :https://github.con/Ammani168/Blog Website
+git clone :https://github.con/Ammani168/Blog-Website
 
 
 Open the project folder
